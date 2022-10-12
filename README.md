@@ -1,20 +1,22 @@
-# (TODO: your game's title)
+# I Was Tired
 
-Author: (TODO: your name)
+Author: Dakota Hernandez (dshernan)
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: I had a really rough week last week working on the 15-440 programming. This week, I have a 15-440 midterm on Thursday so I made the decision to skip this game last Saturday. This is the starter code.
 
-Networking: (TODO: How does your game implement client/server multiplayer? What messages are transmitted? Where in the code?)
+I considered making slight modifications to make a basic air hockey game like from Wii Play, but I instead decided to take an easy week.
+
+Networking: The default networking code is used. I will examine it more over Fall break.
 
 Screen Shot:
 
-![Screen Shot](screenshot.png)
+![Screen Shot](Game_Screenshot.png)
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Use WASD to move around! It's like bumper cars!
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: 15-466 Starter Code
 
 This game was built with [NEST](NEST.md).
 
